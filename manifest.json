@@ -1,14 +1,14 @@
 {
-  "name": "DKB Mall",
-  "short_name": "DKB Mall",
-  "start_url": "/",
+  "name": "DKB Mall Admin Console",
+  "short_name": "DKB Admin",
+  "description": "Inventory management for DKB Mall",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#fff0f5",
+  "background_color": "#f4f7f6",
   "theme_color": "#000080",
-  "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "favicon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
